@@ -1,0 +1,12 @@
+name: epv-app
+title: epv-app
+username:
+account: howiebaek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1625691
+bundleId: 2702934
+url: https://howiebaek.shinyapps.io/epv-app/
+when: 1577995301.18232
+asMultiple: FALSE
+asStatic: FALSE
